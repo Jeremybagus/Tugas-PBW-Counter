@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background: linear-gradient(#97BFB4, #F5EEDC);
+    color: white;
+    padding: 11.3rem 0rem;
+    margin: 0;
+    margin-top: 0;
+    font-size: 50px;
+}
+
+.box {
+    text-align: center;
+    font-size: 100px;
+}
+
+.cek input {
+
+    font-size: 40px;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding: 15px 20px 15px 20px;
+    cursor: pointer;
+}
